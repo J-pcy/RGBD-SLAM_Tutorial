@@ -1,0 +1,1 @@
+g++       CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main  -L/home/peng/RGBD_SLAM/slam/lib -rdynamic 
